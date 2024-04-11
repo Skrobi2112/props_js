@@ -6,4 +6,4 @@
 - [ ] write down who rules
 
 ## TODO js:
-- [ ] prepare hello world script
+- [x] prepare hello world script
