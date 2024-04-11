@@ -3,7 +3,7 @@
 
 ## TODO pp:
 
-- [ ] write down who rules
+- [x] write down who rules
 
 ## TODO js:
 - [x] prepare hello world script
